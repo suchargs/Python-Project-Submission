@@ -1,7 +1,8 @@
 Explanation (Step by step)
 
 
-![image](https://github.com/suchargs/Python-Project-Submission/assets/174418092/6886f809-47d4-46a4-818a-0ecdd757ad22)
+![image](https://github.com/suchargs/Python-Project-Submission/assets/174418092/ae4fce4a-adce-4073-847c-cf6837c08072)
+
 •	Libraries Import: This block imports necessary libraries for GUI creation (tkinter), web scraping (requests, BeautifulSoup), threading, data handling (pandas), and introducing delays (time).
  ![image](https://github.com/suchargs/Python-Project-Submission/assets/174418092/00f449d4-9183-471b-ad56-7c7bc3f8d737)
 
